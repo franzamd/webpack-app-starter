@@ -22,15 +22,13 @@ Run Dev Server (Port 3000)
 npm run dev
 ```
 
-
-## Build for production
+## Build for production
 
 ```
 npm run build
 ```
 
-
-## Demo App
+## Demo App
 
 The demo app is very simple Joke generator. Replace with your own code and install other packages as needed
 
